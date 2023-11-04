@@ -6,7 +6,7 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/CodeXBotz/File-Sharing-Bot",
+  "repository": "https://youtu.be/dQw4w9WgXcQ?si=dXiF2r3BFjx--4vE",
   "logo": "https://ibb.co/FgPVtzw",
   "env": {
     "TG_BOT_TOKEN": {
@@ -15,7 +15,7 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "1250450587"
+      "value": "5227766525"
     },
     "APP_ID":{
       "description": "your app id, take it from my.telegram.org",
@@ -56,8 +56,8 @@
     },
     "PROTECT_CONTENT": {
       "description": "Protect contents from getting forwarded",
-      "value": "False",
-      "required": false
+      "value": "true",
+      "required": true
     }
   },
   "buildpacks": [
